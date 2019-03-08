@@ -1,0 +1,9 @@
+github에 파일 올리기:)
+
+1. git add '[업로드할 폴더 및 파일 이름]'
+
+2. git commit -m '"내용"'
+
+3. git push -u orgin master
+
+
