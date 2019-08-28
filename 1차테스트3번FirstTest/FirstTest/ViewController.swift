@@ -153,6 +153,7 @@ final class ViewController: UIViewController {
     labels[sender.tag]?.text = "\(amount + 1)"
   }
   
+  
   @objc func didTapPaymentButton(_ sender: UIButton) {
     let alertController = UIAlertController(
       title: "결제하기",
